@@ -30,6 +30,8 @@
 
 ---
 
+# DE Ascension — Daily Log
+
 ### [DAY-0] — 2025-12-25 (America/Chicago)
 **Time spent:** __
 
@@ -37,22 +39,16 @@
 - DE Ascension framework + mastery definition
 
 **PRACTICED**
-- Repo/log setup (structure + templates)
+- GitHub basics: creating folders/files + commits
 
 **EXECUTED**
-- Created base repo + structure
+- Repo created + base structure (notes/sql/python/projects)
 
 **RECORDED**
-- Initialized daily log
+- Skill ledger created
 
-**SHARED**
-- Repo created (public)
-
-**BLOCKERS / CONFUSION**
+**PENDING**
+- (optional) Add full daily template for future days
 - 
-
-**PENDING (carry to next day)**
-- Create skill ledger + folders (sql/python/projects)
-
 **NEXT DAY TARGET**
 - Start [DAY-1] SQL foundations + proof
